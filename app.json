@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Radio Long Distance",
+    "slug": "radio-long-distance-am-fm-obn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {"backgroundColor": "#07152f", "resizeMode": "contain"},
+    "assetBundlePatterns": ["**/*"],
+    "ios": {"supportsTablet": true, "bundleIdentifier": "org.obn.radiolongdistance"},
+    "android": {"package": "org.obn.radiolongdistance", "permissions": ["INTERNET", "ACCESS_NETWORK_STATE"]}
+  }
+}
